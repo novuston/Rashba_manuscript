@@ -1,14 +1,14 @@
 # Fdb version 4
 ["bibtex build/main"] 0 "build/main.aux" "build/main.bbl" "build/main" 0 -1
-  "build/main.aux" 1759518899 1523 4dda1360242026161c9f074eda638480 "pdflatex"
-  "build/mainNotes.bib" 1759518899 104 4d8bb863c86f3d7b03a471e9d4707f34 "pdflatex"
+  "build/main.aux" 1759519196 1523 4dda1360242026161c9f074eda638480 "pdflatex"
+  "build/mainNotes.bib" 1759519196 104 4d8bb863c86f3d7b03a471e9d4707f34 "pdflatex"
   "c:/texlive/2024/texmf-dist/bibtex/bst/revtex/apsrev4-2.bst" 1738819853 69609 e9dea59f0e753ccda3ddc8f5806d846d ""
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1759518896.72716 "d:/git_work/Rashba_manuscript/main.tex" "build/main.pdf" "main" 1759518902.63077 2
-  "build/main.aux" 1759518899 1523 4dda1360242026161c9f074eda638480 "pdflatex"
+["pdflatex"] 1759519193.43348 "d:/git_work/Rashba_manuscript/main.tex" "build/main.pdf" "main" 1759519199.49516 2
+  "build/main.aux" 1759519196 1523 4dda1360242026161c9f074eda638480 "pdflatex"
   "build/main.bbl" 1759518843 1980 28c19e8c34138b62d4af8c2d0ed844b0 "bibtex build/main"
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1738816127 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1738816929 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -78,8 +78,8 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1738821716 5513072 9c1fc38a7d970efa00aeae6b397bfedd ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1738822108 8221654 f9d3bb9cf6eb239be1d64388883f5f81 ""
   "c:/texlive/2024/texmf.cnf" 1738821649 713 e69b156964470283e0530f5060668171 ""
-  "d:/git_work/Rashba_manuscript/main.tex" 1759518881 19512 7a6af447ce75c1d0e7a6e47b502ebbd0 ""
-  "main.tex" 1759518881 19512 7a6af447ce75c1d0e7a6e47b502ebbd0 ""
+  "d:/git_work/Rashba_manuscript/main.tex" 1759519186 19512 7a6af447ce75c1d0e7a6e47b502ebbd0 ""
+  "main.tex" 1759519186 19512 7a6af447ce75c1d0e7a6e47b502ebbd0 ""
   (generated)
   "build/main.aux"
   "build/main.log"
